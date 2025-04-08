@@ -1,12 +1,12 @@
 
 ## Oleksandr Antonenko (Kyiv, Ukraine) - Software Engineer | Manager | Mentor
 
-[My CV](https://www.linkedin.com/in/aleksandr-antonenko/) - Looking for new interesting project
+[Linkedin](https://www.linkedin.com/in/aleksandr-antonenko/) Ready to develop your MVP
 
-**Years of experience in IT**:  9+
+**Years of experience in IT**:  15+
 **Years of experience in Management**:  10+
 
-**What i know:** Software development, RnD, Mangement, Marketing/Growth hacking, BizDev, HR & Recruiting, Desing/UX 
+**What I know:** Software development, R&D, Management, Marketing/Growth hacking, BizDev, HR & Recruiting, Desing/UX 
 
 **Domains:** AI, Startups, SaaS
 

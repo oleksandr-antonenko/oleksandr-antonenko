@@ -1,5 +1,5 @@
 
-## Oleksandr Antonenko (Kyiv, Ukraine) - Software Engineer | Manager | Mentor
+## Oleksandr Antonenko (Europe) - Software Engineer | Manager | Mentor
 
 [Linkedin](https://www.linkedin.com/in/aleksandr-antonenko/) Ready to develop your MVP
 

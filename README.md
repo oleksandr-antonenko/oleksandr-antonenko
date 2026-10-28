@@ -12,7 +12,7 @@ I take the processes a business already runs — orders, stock, invoicing, deliv
 |---|---|
 | [MakeKudri](https://oleksandr-antonenko.com/notes/one-system/) · hair-care brand | Orders, stock, fiscal receipts, courier waybills and P&L in one system. An order goes from payment to delivery without anyone retyping it. |
 | [Curl School](https://curl.school) · course platform | Enrolment, payment, access and the certificate happen without anyone in the office touching an order. |
-| Report Writing Tool · school psychologists (NDA) | An evaluation report that took seven working days now takes about two hours. |
+| [LilyAssist](https://thrivingstudents.com/lily/) · school psychologists | An evaluation report that took seven working days now takes about two hours. Backend and the report generation engine. |
 | Garment Production System · clothing factory (NDA) | The factory always knows what is being sewn, from which fabric and print, against which order. Lead developer. |
 | [How I killed the SaaS](https://oleksandr-antonenko.com/notes/kill-saas/) · hair salon | The data taken out of a vendor that did not want to give it, a new system around it, history back to 2013. Runs at perukar.org. |
 | NestorDoc · doctors | The consultation is transcribed live; notes, likely diagnosis and prescriptions are drafted by the time the patient leaves. |

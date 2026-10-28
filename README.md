@@ -32,3 +32,5 @@ TypeScript · NestJS · Next.js · React · React Native · PostgreSQL · Claude
 ## Contact
 
 [oleksandr-antonenko.com](https://oleksandr-antonenko.com) · [LinkedIn](https://www.linkedin.com/in/aleksandr-antonenko/) · antonenko.web.dev@gmail.com
+
+[![Oleksandr Antonenko profile views](https://u8views.com/api/v1/github/profiles/961271/views/day-week-month-total-count.svg)](https://u8views.com/github/antonenkoDev)

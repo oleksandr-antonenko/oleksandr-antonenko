@@ -27,7 +27,7 @@ Thirteen case studies: [oleksandr-antonenko.com](https://oleksandr-antonenko.com
 
 ## Stack
 
-TypeScript · NestJS · Next.js · React · React Native · PostgreSQL · Claude Code
+TypeScript · Effect-TS · Foldkit · NestJS · Next.js · React · React Native · PostgreSQL · Claude Code
 
 ## Contact
 
